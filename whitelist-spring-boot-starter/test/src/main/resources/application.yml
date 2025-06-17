@@ -2,6 +2,6 @@ server:
   port: 8081
 
 # 白名单用户
-bugstack:
+atluofu:
   whitelist:
     users: aaa,111,atluofu
